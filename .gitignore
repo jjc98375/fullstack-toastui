@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#clearly erase the node_modules in both backend and toastui
+backend/node_modules
+toastui/node_modules
+
+
